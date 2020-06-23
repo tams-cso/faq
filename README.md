@@ -4,9 +4,10 @@ experience, the computer science classes do not have any prerequisites
 and are designed for those without prior programming experience.
 
 # What language will we use?
-The classes are taught in C++. If you've only ever programmed in
-high-level languages like Java or Python before, it will be lower-level
-than what you are used to, but nothing you can't handle :)
+Most classes are taught in C/C++ while a few are in Python.
+If you've only ever programmed in high-level languages like Java before,
+it will be lower-level than what you are used to,
+but nothing you can't handle :)
 
 # What about operating systems?
 Anything works fine, though Windows users may find a UNIX terminal
